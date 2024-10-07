@@ -1,4 +1,4 @@
-# Student-Record-By-C-
+# Student-Record-By-C++
 Project Title: Student Record Management System
 
 Project Description:
